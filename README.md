@@ -53,6 +53,7 @@
 
 
 ## Output:
+![Screenshot (4)](https://github.com/S-ARVIND01/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118707337/8ba91002-b382-4058-b615-56e3326207a8)
 
 
 ### Name:
